@@ -1,0 +1,72 @@
+{
+  "book_id": "latin-american-boom-urban-realism-past-future",
+  "title": "The Hum of Potential",
+  "tagline": "In a city that tastes of metal and memory, a historian races to reclaim her future from the static weight of the past.",
+  "target_words": 70120,
+  "actual_words": 70120,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of Urban Space",
+    "The Tyranny of Academic Legacy",
+    "The Search for Lost Histories",
+    "The Collision of Personal and Collective Memory"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Mouthful of Copper Coins",
+      "words": 6374
+    },
+    {
+      "ch": 2,
+      "title": "The Sedimentary Past",
+      "words": 6374
+    },
+    {
+      "ch": 3,
+      "title": "A Door in the Basement",
+      "words": 6374
+    },
+    {
+      "ch": 4,
+      "title": "The Taste of Cold Silver",
+      "words": 6374
+    },
+    {
+      "ch": 5,
+      "title": "Dawn the Color of a Faded Bruise",
+      "words": 6374
+    },
+    {
+      "ch": 6,
+      "title": "The After is Static",
+      "words": 6374
+    },
+    {
+      "ch": 7,
+      "title": "The Hum of Potential",
+      "words": 6374
+    },
+    {
+      "ch": 8,
+      "title": "The Needle's Point",
+      "words": 6374
+    },
+    {
+      "ch": 9,
+      "title": "A Velvet Darkness",
+      "words": 6374
+    },
+    {
+      "ch": 10,
+      "title": "Between Bruise and Dawn",
+      "words": 6374
+    },
+    {
+      "ch": 11,
+      "title": "The Weight of a Struck Bell",
+      "words": 6374
+    }
+  ]
+}
